@@ -10,7 +10,7 @@
 
 不过与之带来的就是与新时代更好的兼容与便捷，比如可以采用 `lua` 这样极为快速的脚本语言进行配置，`vim9.0` 速度也只能勉强赶上，更不用提之前的 `vimscript` 了。同时 `neovim` 内置了一些列有趣的东西，比如浮动终端、tree-sitter和Virtual Text。
 
-![](../photo/virutal_text_example1.png)
+![](./photo/virutal_text_example1.png)
 
 ![](https://cdn.luogu.com.cn/upload/usericon/311721.png)
 
