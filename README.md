@@ -12,8 +12,6 @@
 
 ![](./photo/virutal_text_example1.png)
 
-![](https://cdn.luogu.com.cn/upload/usericon/311721.png)
-
 为什么们需要 `lua` 这个奇妙的语言？
 
 因为它快（起码是我已知的脚本语言里面排前三的）
