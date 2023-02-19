@@ -1,5 +1,7 @@
 # 用lua配置你的nvim
 
+~~in fact，到现在我都没写完~~
+
 此博客同步更新于 [github](https://github.com/YCSHome/nvim-lua) 上
 
 ## 前言：
